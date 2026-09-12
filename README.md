@@ -1,0 +1,1 @@
+"¡Hola! En este repositorio presento mi solución a la prueba técnica de E-Commerce. Podrán encontrar el código completo de extracción y análisis en el archivo de Colab, el diseño de los endpoints en los archivos JSON, y mis conclusiones de negocio en el PDF."
